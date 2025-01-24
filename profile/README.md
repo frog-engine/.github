@@ -1,5 +1,5 @@
 ## frog-engine👋
-# 这是frog-engine组织，目的是基于多媒体开源工具和大模型提供音视频转码应用服务。
+这是frog-engine组织，目的是基于多媒体开源工具和大模型提供音视频转码应用服务。
 <!--
 
 **Here are some ideas to get you started:**
