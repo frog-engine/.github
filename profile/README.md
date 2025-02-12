@@ -15,15 +15,15 @@ We specialize in providing image and audio-video transcoding services based on o
 -->
 
 
-# 仓库列表
+# Repositories
 
-### 🍿 [frog-go 图片转码服务](https://github.com/frog-engine/frog-go) 
+### 🍿 [frog-go 图片转码Web服务](https://github.com/frog-engine/frog-go) 
 [frog-go](https://github.com/frog-engine/frog-go) 提供图片实时与异步转码服务，基于`frog-sdk`接口。高性能，简单易用，支持高并发场景，方便二次开发与扩展。
 
 `frog-go` offers real-time and asynchronous image transcoding services powered by the frog-sdk interface. It is high-performance, user-friendly, supports high concurrency, and is ideal for secondary development and expansion.
 
 
-### 🌈 [frog-sdk 转码sdk](https://github.com/frog-engine/frog-sdk)
+### 🌈 [frog-sdk 通用转码SDK工具](https://github.com/frog-engine/frog-sdk)
 [frog-sdk](https://github.com/frog-engine/frog-sdk) 集成 `FFmpeg` 和 `ImageMagick` 等工具，提供便捷的 API 接口，方便上层服务调用。
 
 `frog-sdk` integrates tools like FFmpeg and ImageMagick to provide convenient API interfaces for upper-layer services.
