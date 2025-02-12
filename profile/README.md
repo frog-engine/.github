@@ -1,5 +1,5 @@
-# frog-engine👋
-🙋‍♀️ 这里是 `frog-engine` 开源组织。我们基于开源多媒体工具和大模型系统，专注于提供图片和音视频的转码服务。我们通过整合底层服务，把复杂的事情简单化，提供简单可靠的应用服务。
+# Welcome to frog-engine
+这里是 `frog-engine` 开源组织。我们基于开源多媒体工具和大模型系统，专注于提供图片和音视频的转码服务。我们通过整合底层服务，把复杂的事情简单化，提供简单可靠的应用服务。
 
 We specialize in providing image and audio-video transcoding services based on open-source multimedia tools and large model systems. By integrating underlying services, we simplify complex processes to deliver reliable and easy-to-use application solutions.
 
